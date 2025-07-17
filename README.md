@@ -1,2 +1,2 @@
-Soft local reactivation for communication efficient
-federated learning
+##FedSLR
+Soft local reactivation for communication efficient federated learning

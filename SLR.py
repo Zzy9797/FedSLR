@@ -14,8 +14,8 @@ from copy import deepcopy
 from tqdm import tqdm
 import warnings
 from datasets import get_dataset
-import exp0804_SLR_model
-from exp0804_SLR_model import all_models, initialize_mask
+import SLR_model
+from SLR_model import all_models, initialize_mask
 import logging
 from logging import handlers
 import matplotlib.pyplot as plt

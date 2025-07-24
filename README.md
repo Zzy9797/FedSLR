@@ -2,5 +2,6 @@
 Soft local reactivation for communication efficient federated learning
 
 ## Code Descriptions
-- run.sh: Quick strat
-- train.py: Main code of the algorithm
+- datasets.py: Data partition file
+- SLR.py: Training file
+- SLR_model.py: Model file
